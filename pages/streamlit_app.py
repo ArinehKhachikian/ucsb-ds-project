@@ -15,3 +15,4 @@ with col1:
 with col2:
     if st.button("Market Explorer"):
         st.switch_page("pages/market_explorer.py")
+
